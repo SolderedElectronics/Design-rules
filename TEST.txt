@@ -2,4 +2,4 @@ OVO je neki tekst koji je dodan u init commitu
 
 A dalje će biti tekst koji će napisati goranasdaff
 
-Test1
+OVO je TEST2
